@@ -12,6 +12,25 @@ Tested on `Final Fantasy IV` but written for all pixel remasters 1-6.
 3. Finish the fight and at the field, begin the auto-auto-battle program.
 3. The program will detect the window and state automatically and begin execution.
 
+## Example output:
+
+(non verbose)
+```
+BEGIN AUTO AUTO-BATTLER
+Using PRESS Q (game autobattle prior commands) mode
+Quick-saving after every battle
+Death/main-menu detection active
+Found: FINAL FANTASY IV
+Handle: 2821526
+Out of combat
+Quicksave at: 5/23/2022 5:10:16 PM
+Entering combat
+In combat
+Finishing combat
+Quicksave at: 5/23/2022 5:10:37 PM
+Out of combat
+```
+
 ## How it works:
 
 The pixel color near the bottom right of the screen is read to detect the `blue` battle menu. About 93% of the screen from the bottom-right at 16:9 aspect ratio.
@@ -19,6 +38,8 @@ The pixel color near the bottom right of the screen is read to detect the `blue`
 `blue` means in combat. `not blue` means out of combat. `white` means death/battle-menu
 
 The program works on a boolean state and knows when state changes occur. So it can do actions once after/before combat.
+
+![](.img/readme1.jpg)
 
 ## Why:
 
