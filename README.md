@@ -43,9 +43,13 @@ Out of combat
 
 ## Use a trainer instead:
 
-No seriously if you're going for a super rare drop for achievement hunting, a trainer will give you 100% drop rate with a button without modifying the game either. I ran this for hours and still never got the `bomb` summon for Rydia in IV. 
+No seriously if you're going for a super rare drop for achievement hunting, a trainer will give you 100% drop rate with a button without modifying the game either. 
+
+I ran this for hours and still never got the `bomb` summon for Rydia in IV. A trainer gets you this immediately, where as the manual grind method EVEN AUTOMATED, can take hours if not days. (Mind Flayer matter of minutes. Bomb - seemingly forever for some reason)
 
 If you want to rare hunt or auto-grind or compliment your game, have fun.
+
+![](.img/readme2.jpg)
 
 ## How this works:
 
