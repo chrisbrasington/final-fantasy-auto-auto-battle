@@ -1,6 +1,10 @@
 # final fantasy (pixel remaster) auto auto-battle
 
+Better than auto-hot-key. This program detects when in and out of combat, engages in both movement and combat commands, uses game's built in auto-battle (for repeating prior commands), quick-saves after battle, and aborts in the event of death. Logs all actions out to console window viewable in the background.
+
 Tested on `Final Fantasy IV` but written for all pixel remasters 1-6.
+
+![](.img/readme1.jpg)
 
 ## How to use:
 
@@ -38,8 +42,6 @@ The pixel color near the bottom right of the screen is read to detect the `blue`
 `blue` means in combat. `not blue` means out of combat. `white` means death/battle-menu
 
 The program works on a boolean state and knows when state changes occur. So it can do actions once after/before combat.
-
-![](.img/readme1.jpg)
 
 ## Why:
 
