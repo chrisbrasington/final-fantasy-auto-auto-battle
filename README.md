@@ -1,6 +1,4 @@
-[_TOC_]
-
-final fantasy (pixel remaster) auto auto-battle
+# final fantasy (pixel remaster) auto auto-battle
 
 Tested on `Final Fantasy IV` but written for all pixel remasters 1-6.
 
