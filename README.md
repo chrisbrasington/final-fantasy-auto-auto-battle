@@ -1,0 +1,1 @@
+# final fantasy (pixel remaster) auto auto-battle
