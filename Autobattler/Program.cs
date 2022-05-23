@@ -392,6 +392,12 @@ namespace AutoBattler
             {
                 if (pList.MainWindowTitle.ToUpper().StartsWith(windowName))
                 {
+                    // ignore this come on..
+                    if (pList.MainWindowTitle.ToLower().Contains("discord"))
+                    {
+                        continue;
+                    }
+
                     handle = pList.MainWindowHandle;
 
                     Console.WriteLine($"Found: {pList.MainWindowTitle}");
