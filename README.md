@@ -6,6 +6,12 @@ Tested on `Final Fantasy IV` but written for all pixel remasters 1-6.
 
 ![](.img/readme1.jpg)
 
+## Warning! Backup your saves!
+
+I try my best to only use auto-save and not send key presses to random menus, but it's not bullet proof and I wouldn't want to save over precious existing saves.
+
+You can download cloud backups manually if you like here: [cloud remote storage](https://store.steampowered.com/account/remotestorage) or just backup from disk
+
 ## How to use:
 
 1.  Start the game and enter into the field where you want to grind/farm. Allow for up-down character movement without transitioning areas. 
@@ -35,7 +41,13 @@ Quicksave at: 5/23/2022 5:10:37 PM
 Out of combat
 ```
 
-## How it works:
+## Use a trainer instead:
+
+No seriously if you're going for a super rare drop for achievement hunting, a trainer will give you 100% drop rate with a button without modifying the game either. I ran this for hours and still never got the `bomb` summon for Rydia in IV. 
+
+If you want to rare hunt or auto-grind or compliment your game, have fun.
+
+## How this works:
 
 The pixel color near the bottom right of the screen is read to detect the `blue` battle menu. About 93% of the screen from the bottom-right at 16:9 aspect ratio.
 
