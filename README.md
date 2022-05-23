@@ -17,7 +17,7 @@ You can download cloud backups manually if you like here: [cloud remote storage]
 1.  Start the game and enter into the field where you want to grind/farm. Allow for up-down character movement without transitioning areas. 
 1. (recommended) Start 1 fight manually and setup each characters moves
 
-> Give your party an out. For example, Rosa has pray with no MP cost and some enemies are physical damage resistant, so it have Rydia cast blizarra/other. This allows for healing an an out for certain fights.
+> Give your party an out for certain scenarios. For example, Rosa has pray with no MP cost and some enemies are physical damage resistant, so it have Rydia cast blizarra/other. This allows for healing an an out for certain fights.
 
 3. Finish the fight and at the field, begin the auto-auto-battle program.
 3. The program will detect the window and state automatically and begin execution.
