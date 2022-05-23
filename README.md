@@ -22,6 +22,10 @@ The pixel color near the bottom right of the screen is read to detect the `blue`
 
 The program works on a boolean state and knows when state changes occur. So it can do actions once after/before combat.
 
+## Why:
+
+Cause rare drops can be annoying (why I wrote it - though you can go use a trainer instead) or if you want an even more advance auto-grind.
+
 ## What doesn't work:
 
 Only 16:9 tested. Ultra-widescreen resolutions or 4:3 untested/unaccounted for.
