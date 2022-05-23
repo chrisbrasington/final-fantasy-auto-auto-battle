@@ -1,6 +1,6 @@
 # final fantasy (pixel remaster) auto auto-battle
 
-Better than auto-hot-key. This program detects when in and out of combat, engages in both movement and combat commands, uses game's built in auto-battle (for repeating prior commands), quick-saves after battle, and aborts in the event of death. Logs all actions out to console window viewable in the background.
+Better auto-grinder than auto-hot-key. This program detects when in and out of combat, engages in both movement and combat commands, uses game's built in auto-battle (for repeating prior commands), quick-saves after battle, and aborts in the event of death. Logs all actions out to console window viewable in the background.
 
 Tested on `Final Fantasy IV` but written for all pixel remasters 1-6.
 
